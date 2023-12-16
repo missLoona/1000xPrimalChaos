@@ -36,6 +36,12 @@
         ],
         "links": [
             {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/NbFQFSkf"
+                }
+            }
+            {
                 "link2": {
                     "text": "Wiki",
                     "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
