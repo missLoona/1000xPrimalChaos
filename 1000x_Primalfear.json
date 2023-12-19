@@ -32,6 +32,15 @@
                     "text2": "<TextStyle.Green>Ark Primal Chaos</>\n\n<TextStyle.Green>Arkomatic</>\n\n<TextStyle.Green>Automated Ark</>\n\n<TextStyle.Green>AP: Death Recovery</>\n\n<TextStyle.Green>Admin Panel</>\n\n<TextStyle.Green>AmmoCooker</>\n\n<TextStyle.Green>Crazy's Crazy Potions</>\n\n<TextStyle.Green>EZ Engram Unlocker</>\n\n<TextStyle.Green>EZ Resources</>\n\n<TextStyle.Green>EJ Consumables (Mutation)</>\n\n<TextStyle.Green>Moros Indomitable Duo</>\n\n<TextStyle.Green>Pelayori's Cryo Storage</>\n\n<TextStyle.Green>Super Structures Ascended</>\n\n<TextStyle.Green>Super Spyglass Plus</>\n\n<TextStyle.Green>Solo Farm Mod</>\n\n<TextStyle.Green>Seed Farm</>\n\n<TextStyle.Green></>\n\n<TextStyle.Green></>\n\n<TextStyle.Green>Tek Creatures</>\n\n<TextStyle.Green>TG Stacking Mod 10000-90</>\n\n<TextStyle.Green>Utilities Plus</>\n\n<TextStyle.Green>Ultimate Tranqs</>\n\n<TextStyle.Green>WBUI2</>",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
+            },
+                        {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "<TextStyle.Red>Rules</>",
+                    "text1": "1. A friendly and respectful interaction is mandatory at all times!\n\n2. The instructions of administrators must always be followed.\n\n3. Any advertising is prohibited.\n\n4. Unreasonable tagging / pinging / marking of users & user ranks is prohibited.\n\n5. No inappropriate profiles (usernames, avatars, accounts and statuses).\n\n6. Sharing of personal data is prohibited.\n\n7. Spamming is prohibited. No insults. No Flame use the ingame chat for that.\n\n8. Stick to channel topics and keep conversations in the appropriate channels.\n\n9. Any blackmail attempts will be punished with a ban, no matter what kind or how small!"
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
             }
         ],
         "links": [
