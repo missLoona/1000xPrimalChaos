@@ -33,9 +33,9 @@
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
-                        {
+            {
                 "tab3": {
-                    "layout": 3,
+                    "layout": 1,
                     "buttontext": "Rules",
                     "title1": "<TextStyle.Red>Rules</>",
                     "text1": "1. A friendly and respectful interaction is mandatory at all times!\n\n2. The instructions of administrators must always be followed.\n\n3. Any advertising is prohibited.\n\n4. Unreasonable tagging / pinging / marking of users & user ranks is prohibited.\n\n5. No inappropriate profiles (usernames, avatars, accounts and statuses).\n\n6. Sharing of personal data is prohibited.\n\n7. Spamming is prohibited. No insults. No Flame use the ingame chat for that.\n\n8. Stick to channel topics and keep conversations in the appropriate channels.\n\n9. Any blackmail attempts will be punished with a ban, no matter what kind or how small!",
